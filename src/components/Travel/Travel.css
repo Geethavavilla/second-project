@@ -1,0 +1,95 @@
+.travel-main-div{
+    margin-left: 305px;
+}
+.trl-img{
+    width:1100px;
+    height:300px;
+}
+ .trl-img1{
+    width:650px;
+    height:410px;
+} 
+ .travel-imgs{
+    width: 250px;
+    height: 250px;
+    border-radius: 150px;
+    margin-left: 20px;
+ }
+ .trl-head{
+    margin-left: 10px;
+    margin-top: 30px;
+ }
+ .img-heading{
+    font-weight: bold;
+    margin-top: 10px;
+ }
+ .img-heading:hover{
+    cursor: pointer;
+    color:brown;
+ }
+ .img-div{
+    margin-left: 10px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    border: 2px black solid;
+ }
+ .login-div{
+    margin-left: 30px;
+ }
+ .welcome{
+    margin-left: 100px;
+    font-weight: bolder;
+    font-size: 50px;
+    color: dodgerblue;
+ }
+ .login-para{
+    margin-left: 140px;
+ }
+ .trl-label{
+    margin-left: 100px;
+ }
+ .trl-label1{
+    width: 250px;
+    height: 35px;
+    margin-bottom: 10px;
+ }
+ .password{
+    margin-top: 5px;
+    margin-left:100px ;
+ }
+ .login-btn{
+    width:100px;
+    height: 35px;
+    margin-left: 100px;
+    background-color: dodgerblue;;
+ }
+ .or{
+    margin-left: 100px;
+    margin-top: 10px;
+ }
+ .continue{
+    margin-left:90px ;
+ }
+ .login-icons{
+    margin-left: 85px;
+ }
+ .icon-wth{
+    width: 30px;
+    height:25px;
+ }
+ .world{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+ }
+ .world:hover{
+    cursor: pointer;
+    color:brown;
+    background-color:beige;
+    width: 1150px;
+}
+.img-btw{
+   margin-left: 15px;
+}

@@ -1,0 +1,110 @@
+.fsh-img{
+    width:1100px;
+    height:500px;
+}
+.fsh-main-div{
+    margin-left: 305px;
+}
+.parent1{
+    position: relative;
+}
+.child1{
+    position: absolute;
+    top:30px;
+    color: black;
+}
+.fsh-sides{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fsh-btn{
+    width: 120px;
+    height: 37px;
+    border-radius: 25px;
+    background-color:darkorange;
+}
+.btn-sides{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.fsh-list{
+    margin-left: 80px;
+    font-size: 20px;
+}
+.hov:hover{
+    cursor: pointer;
+    color:coral
+}
+.fsh-sides{
+    cursor: pointer;
+}
+.fsh1-img{
+    width:340px;
+    height: 150px;
+    border-radius: 80px;
+    
+}
+.sec-main{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.fsh1-heading{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.p-hov:hover{
+    cursor: pointer;
+    color:cornflowerblue;
+}
+shopping-img{
+    width: 50px;
+    height: 50px;
+}
+.fsh-flex{
+    display: flex;
+}
+.fsh5{
+    width: 550px;
+    height: 500px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.popular{
+    margin-left: 20px;
+    margin-top: 50px;
+    
+}
+.popular-heading{
+    margin-top: 50px;
+}
+.card-body{
+    width:250px;
+    margin-top: 30px;
+    margin-left: 10px;
+    border-color: black;
+    height: 525px;
+}
+.card-img{
+    margin-bottom: 10px;
+    width:250px;
+    height: 250px;
+}
+.card-btn{
+    width:150px;
+    height: 50px;
+    margin-left: 25px;
+    background-color: orange;
+    margin-bottom: 10px;
+}
+.card-heading{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.card-heading:hover{
+    cursor: pointer;
+    color: chocolate;
+}

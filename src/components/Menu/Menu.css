@@ -1,0 +1,203 @@
+.main{
+    border-right: 3px solid black ;
+    position: fixed !important;;
+    position: relative;
+}
+
+.img-wth{
+    width:300px;
+    height: 250px;
+}
+.list-top{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.list{
+    list-style-type: none;
+    line-height: 60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.list:hover .sub-list{
+    cursor: pointer;
+}
+.sub-list{
+    text-decoration: none;
+    color: black;
+}
+.sub-list:hover{
+    color:dodgerblue;
+}
+.btn-sides{
+    margin-left: 40px !important;
+}
+.btn-border{
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    font-size: 18px;
+    background-color:lightskyblue;
+}
+.icon-sides{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.icon-wth{
+    margin-left: 5px;
+    width: 25px;
+    height: 40px;
+
+}
+.top{
+    display: flex;
+    /* width: 100%; */
+    height: 100%;
+}
+.img1-wth{
+    width:1100px;
+    height:400px;
+}
+.img-sides{
+    margin-left: 5px;
+}
+.parent{
+    position: relative;
+}
+.child{
+    position: absolute;
+     top:30px; 
+     color: white;
+}
+.img-head{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:mediumvioletred;
+}
+.img-head1{
+    margin-left: 50px;
+    text-align: justify;
+    color: rgba(255,255,255,1); 
+    width: 950px;
+}
+.heading-top{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.label-sides{
+    margin-left: 250px;
+    margin-top: 25px;
+}
+.label{
+    margin-left: 15px;
+    margin-top: 15px;
+    width: 180px;
+    height: 35px;
+    border-radius:10px;
+    padding-left: 10px;
+}
+.text-btn{
+    margin-left: 15px;
+    margin-top: 15px;
+    border-radius:  10px ;
+    padding-left: 10px;
+}
+.btn1{
+    border-radius:10px ;
+    margin-top: 10px;
+    width: 180px;
+    height: 35px;
+    background-color:black;
+    margin-bottom: 20px;
+    color:white;
+}
+.contact{
+    margin-top: 80px;
+    padding-top: 10px;
+
+}
+.footer-display{
+    display: flex;
+    margin-top: 100px;
+    background-color:thistle;
+    height: 250px;
+    margin-top: 80px;
+}
+.footer-box{
+    background-color:gainsboro;
+    padding-left: 10px;
+    width:200px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.col1{
+    margin-left: 30px;
+    padding-top: 20px;
+}
+.footer-img{
+    width:150px;
+    border-radius: 20px;
+}
+.footer-icon{
+    width:30px ;
+    height: 20px;
+    margin-left: 3px;
+    margin-top: 20px;
+} 
+.right-side{
+  overflow-y: scroll; 
+  margin-left: 300px;
+}
+ .container{
+    position: relative;
+ }
+ .text{
+    position: absolute;
+    z-index: 1;
+    font-size: larger;
+ }
+ .fashion-img{
+    width:500px;
+    margin-left: 20px;
+    margin-top: 30px;
+    height: 250px;
+ }
+ .text-sides{
+    margin-left: 20px;
+    margin-top: 25px;
+ }
+ .food-img{
+    width: 500px;
+    margin-right: 20px;
+    margin-top: 20px;
+    height: 250px;
+ }
+ .food-text{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+ .travel-img{
+    width:500px;
+    margin-left: 20px;
+    margin-top: 30px;
+    height: 250px;
+ }
+ .ltr::first-letter{
+    color:brown;
+    font-size: 20px;
+    font-weight: bold;
+    
+ }
+ .hov:hover{
+    color: deepskyblue;
+    cursor: pointer;
+ }
+ .content{
+    text-align: justify;
+ }
+
+ .fashion-single{
+    display: flex;
+    margin-bottom: 20px;
+ }

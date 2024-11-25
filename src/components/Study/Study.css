@@ -1,0 +1,151 @@
+.study-main-div{
+    margin-left: 305px;
+}
+.menu-bar{
+    /* background-color:beige; */
+    display: flex;
+    height: 70px;
+    
+}
+.study-logo{
+    width:80px;
+    height:80px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.about{
+    margin-top: 20px;
+}
+.about:hover{
+    cursor: pointer;
+    color:brown
+}
+.select{
+    margin-top: 20px;
+    margin-left: 50px;
+    
+}
+.select1{
+    width:300px;
+    height: 35px;
+    border-radius: 10px;
+    padding-left: 20px;
+
+}
+.study-img{
+    width:1180px;
+    height:450px;
+}
+.parent3{
+    position: relative;
+}
+.child3{
+    position: absolute;
+    top:30px; 
+    color: white;
+}
+.study-heading{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 80px;
+    margin-left: 30px;
+}
+.search-bar{
+    width:250px;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.search-btn{
+    width: 100px;
+    height: 40px;
+    border-radius:30px;
+    margin-left: 5px;
+}
+.search-btn:hover{
+    cursor:pointer;
+    background-color: chocolate;
+}
+.img{
+    width:150px;
+    height: 150px;
+    border-radius: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.img-topics{
+    display: flex;
+    margin-left: 5px;
+}
+.img-border{
+    width: 250px;
+    border: solid 1px black;
+    border-radius: 10px;
+    margin-left: 25px;
+    background-color: F9F8F6;
+}
+.ai-heading{
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.ai-heading1{
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+.popular{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.popular:hover{
+    cursor: pointer;
+    color:brown;
+    background-color:beige;
+    width: 1150px;
+}
+.img-border:hover{
+    cursor: pointer;
+    color:peru;
+
+}
+.parent4{
+    position: relative;
+}
+.child4{
+    position: absolute;
+     top:100px; 
+     color: white;
+}
+.reg-img{
+    width:1180px;
+    height:400px;
+    margin-top: 50px;
+}
+.reg-heading{
+    margin-left: 290px;
+    font-weight: bolder;
+    font-size: 55px;
+    font-family:serif;
+
+}
+.sign{
+    margin-top: 40px;
+    margin-left: 480px;
+    font-weight: bolder;
+}
+.get-btn{
+    margin-left: 510px;
+    font-weight: bolder;
+    margin-top: 30px;
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+}
+.get-btn:hover{
+    cursor: pointer;
+    background-color:chocolate;
+
+}
